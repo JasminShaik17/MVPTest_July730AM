@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MVPTest_July730AM</string>
+    <string-array name="type">
+            <item>income</item>
+            <item>expense</item>
+    </string-array>
+
+</resources>
